@@ -8,3 +8,4 @@ cp git/squash.sh /usr/local/bin/squash
 cp docker/dexec.sh /usr/local/bin/dcc
 cp docker/dctrash.sh /usr/local/bin/dct
 cp docker/dps.sh /usr/local/bin/dps
+cp docker/dclog.sh /usr/local/bin/dcl
